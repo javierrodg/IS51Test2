@@ -10,3 +10,20 @@ Grades above average will be done using a function calculating
 the average, displaying the number of grades, and percent of grades
 above the average.
 """
+
+
+"""
+infile = open 
+grades = line in infile 
+infile close
+Loop number of grades 
+average grades sum of grades / length 
+loop grade scores 
+if grade > average
+print number of grades
+print average grade
+print percent of grades above average
+
+main
+
+"""
